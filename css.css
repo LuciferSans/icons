@@ -1,0 +1,23 @@
+body{
+	color: white;
+}
+#red:hover{
+	color: red;
+	transition-duration: 5s;
+}
+#blue:hover{
+	color: blue;
+	transition-duration: 10s;
+}
+#black:hover{
+	color: black;
+	transition-duration: 15s
+}
+#green:hover{
+	color: green;
+	transition-duration: 20s;
+}
+#yellow:hover{
+	color: yellow;
+	transition-duration: 25s;
+}
